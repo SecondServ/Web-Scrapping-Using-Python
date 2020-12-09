@@ -5,10 +5,10 @@ Web scraping, web harvesting, or web data extraction is data scraping used for e
 
 ### Content
 This repo includes four representative web scrapping instances I have done using Python, covering:
-- Basic Web scraping technique &emsp; <i>reference: https://realpython.com/beautiful-soup-web-scraper-python/</i>
-- **Asynchronous** + **Queued** Web scraping using gevent &emsp;<i>reference: http://www.gevent.org/api/gevent.monkey.html</i>
-- Automate browser using **Selenium** &emsp;<i>reference: https://www.selenium.dev/selenium/docs/api/py/</i>
-- **Scrapy Framework** &emsp;<i>reference: https://docs.scrapy.org/en/latest/</i>
+- Basic Web scraping using requests and [bs4](https://realpython.com/beautiful-soup-web-scraper-python/) 
+- [Asynchronous](http://www.gevent.org/api/gevent.monkey.html) + [Queued](http://www.gevent.org/api/gevent.queue.html) Web scraping using gevent
+- Automate browser using [Selenium](https://www.selenium.dev/selenium/docs/api/py/)
+- [Scrapy Framework](https://docs.scrapy.org/en/latest/)
 
 ### Detailed Description
 ##### 1. Douban Crawler
