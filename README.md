@@ -18,7 +18,7 @@ This repo includes four representative web scrapping instances I have done using
 - Function: Gether ingredient names, calorie information and links listed on the first 3 pages at boohee.com
 - Technique: Coroutine + Queue Web scraping
 
-##### 3. Automated browser
+##### 3. Automated Browser
 - Function: Automatically control the Chrome broswer to open any website and login/leave a comment
 - Technique: Selenium
 
