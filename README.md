@@ -1,13 +1,13 @@
-# Web-Scrapping-Using-Python
+# Web-Scraping-Using-Python
 ### Definition (from Wikipedia)
 Web scraping, web harvesting, or web data extraction is data scraping used for extracting data from websites. Web scraping software may access the World Wide Web directly using the Hypertext Transfer Protocol, or through a web browser. While web scraping can be done manually by a software user, the term typically refers to automated processes implemented using a bot or web crawler. It is a form of copying, in which specific data is gathered and copied from the web, typically into a central local database or spreadsheet, for later retrieval or analysis.
 
 ### Content
 This repo includes four representative web scrapping instances I have done using Python, covering:
 - Basic Web scraping technique
-- Coroutine + Queue Web scraping
-- Automate browser using Selenium
-- Scrapy Framework
+- **Coroutine** + **Queue** Web scraping
+- Automate browser using **Selenium**
+- **Scrapy Framework**
 
 ### Detailed Description
 ##### 1. Douban Crawler
