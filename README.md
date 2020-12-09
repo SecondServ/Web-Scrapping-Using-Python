@@ -23,7 +23,7 @@ This repo includes four representative web scrapping instances I have done using
 - Technique: Selenium
 
 ##### 4. Dangdang Crawler
-- Function: Gather book names, authors, ratings price listed on the first 3 pages of 2018 TOP500 book list at dangdang.com .
+- Function: Gather book names, authors, ratings and prices listed on the first 3 pages of 2018 TOP500 book list at dangdang.com .
 - Technique: Scrapy Framework
 
 
